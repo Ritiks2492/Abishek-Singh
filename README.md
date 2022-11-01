@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ritiksi2492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritiksi2492" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek-singh-943401184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-singh-943401184" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritiksi2492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-singh-943401184" height="30" width="40" /></a>
 <a href="https://fb.com/ritiks2492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritiks2492" height="30" width="40" /></a>
 <a href="https://instagram.com/ritiksi2492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritiksi2492" height="30" width="40" /></a>
 </p>
